@@ -27,7 +27,7 @@ header {
     width: 100%;
     min-height: auto;
     text-align: center;
-	background: radial-gradient(white, white, white, lightgray);
+	background: radial-gradient(white 45%, lightgray);
 	/*
     color: #fff;
     background-image: url('../images/header.png');
