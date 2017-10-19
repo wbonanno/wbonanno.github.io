@@ -27,8 +27,11 @@ header {
     width: 100%;
     min-height: auto;
     text-align: center;
+	background: radial-gradient(white 45%, gray);
+	/*
     color: #fff;
     background-image: url('../images/header.png');
+	*/
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
