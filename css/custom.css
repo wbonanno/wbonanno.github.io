@@ -27,16 +27,19 @@ header {
     width: 100%;
     min-height: auto;
     text-align: center;
-	background: radial-gradient(white 45%, lightgray);
 	/*
+	background: radial-gradient(white 45%, lightgray);
+	
     color: #fff;
     background-image: url('../images/header.png');
-	*/
+	
     background-position: center;
+	
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+	*/
 }
 
 header .header-content {
