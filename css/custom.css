@@ -33,14 +33,14 @@ header {
     background-image: url('../images/header.png');
 	*/
 	
-	/* Uncomment for background color fill/gradient
+	/* Uncomment for background color fill/gradient */
 	background: radial-gradient(white 45%, lightgray);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-	*/
+	
 }
 
 header .header-content {
